@@ -6,3 +6,10 @@
 /build/
 .idea/
 .metadata
+.DS_Store
+.vscode/
+.idea/
+/build/
+.packages
+.pub/
+pubspec.lock
